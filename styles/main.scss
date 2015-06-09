@@ -19,3 +19,19 @@ body {
   background-color: $base-background-color;
   color: $base-font-color;
 }
+
+.like {
+	display: block;
+	width: 220px;
+	height: 80px;
+	margin: 0 auto;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.submit {
+	display: block;
+	width: 220px;
+	height: 80px;
+	margin: 0 auto;
+}
